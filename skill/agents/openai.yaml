@@ -1,0 +1,6 @@
+interface:
+  display_name: "照片复刻 · Blender"
+  short_description: "从产品照片建立可编辑模型，先检查结构再调材质，并行评估后交付"
+  default_prompt: "使用 $photo-to-blender 根据这张照片在本机 Blender 中复刻模型，先对齐灰模，再检查材质并交付工程和对比图。"
+policy:
+  allow_implicit_invocation: true
