@@ -1,3 +1,5 @@
+**简体中文** | [English](README.en.md)
+
 # Photo to Blender · 照片复刻工作流
 
 把产品照片或设计截图作为参考，在本机 Blender 中制作可编辑三维模型，并逐轮对照修订。
